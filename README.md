@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is erick </h2>
+<h2 align="left">Hi 👋! My Name is Erick </h2>
 
 ###
 
